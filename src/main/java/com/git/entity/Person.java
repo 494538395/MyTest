@@ -1,4 +1,4 @@
-package com.git.entyty;
+package com.git.entity;
 
 public class Person {
     private Integer id;
